@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     width: 100vw;
-    height: 50vh;
+    height: 80vh;
     padding: 4vh 7vw;
 }
 
@@ -60,7 +60,7 @@ nav {
 
 .hero_text {
     font-family: "Anton", sans-serif;
-    font-size: 12.5vw;
+    font-size: 100px;
     line-height: 1;
     text-transform: uppercase;
 }
@@ -73,7 +73,7 @@ nav {
 
 .contact_section{
     width: 100vw;
-    height: 60vh;
+    height: 70vh;
     position: relative;
 }
 
